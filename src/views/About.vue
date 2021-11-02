@@ -14,22 +14,21 @@
     <div class="con_box">
       <div class="con_left">
         <ul>
-          <li><router-link to="/about/"  class="sy">系统首页</router-link></li>
-          <li><router-link to="/about/jbxx"  class="sy">基本信息</router-link></li>
-          <li><router-link to="/about/kcgl"  class="sy">课程管理</router-link></li>
-          
+          <li><router-link to="/about/" class="sy">系统首页</router-link></li>
+          <li>
+            <router-link to="/about/jbxx" class="sy">基本信息</router-link>
+          </li>
+          <li><router-link to="/Homes" class="sy">课程管理</router-link></li>
         </ul>
       </div>
-          <router-view />
+      <router-view />
     </div>
-
   </div>
 </template>
-<script>
-  
-</script>
+<script></script>
 <style lang="scss">
-ul,li{
+ul,
+li {
   list-style: none;
 }
 .about {
@@ -72,19 +71,18 @@ ul,li{
       width: 200px;
       height: 549px;
       // background: red;
-      li{
+      li {
         width: 100%;
         height: 50px;
         // background: yellow;
         line-height: 50px;
         border-bottom: 1px solid gray;
         color: white;
-        .sy{
+        .sy {
           color: white;
         }
       }
     }
-    
   }
 }
 </style>

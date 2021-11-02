@@ -11,7 +11,7 @@
           <div class="nav_box">
             <div
               :class="{ nav_con1: status == 'all' }"
-               class="nav_con"
+              class="nav_con"
               @click="status = 'all'"
               style="
                 border-top-left-radius: 10px;
@@ -113,7 +113,7 @@ export default {
   },
 };
 </script>
-<style lang="scss" >
+<style lang="scss">
 .nav_con1 {
   background: blue;
 }

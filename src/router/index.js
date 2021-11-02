@@ -30,9 +30,14 @@ const routes = [
         component: () => import("../views/jbxx/index.vue"),
       },
       {
-        path: "kcgl",
-        name: "kcgl",
-        component: () => import("../views/kcgl/index.vue"),
+        path: "/Homes",
+        name: "Homes",
+        component: () => import("../views/kcgl/Homes.vue"),
+      },
+      {
+        path: "/Cart",
+        name: "Cart",
+        component: () => import("../views/kcgl/Cart.vue"),
       },
     ],
   },
