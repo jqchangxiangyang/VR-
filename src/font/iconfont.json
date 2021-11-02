@@ -1,0 +1,121 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1025133",
+      "name": "声音",
+      "font_class": "shengyin",
+      "unicode": "e753",
+      "unicode_decimal": 59219
+    },
+    {
+      "icon_id": "1092118",
+      "name": "播放",
+      "font_class": "bofang",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "1309821",
+      "name": "播放",
+      "font_class": "bofang1",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "1725611",
+      "name": "静音",
+      "font_class": "jingyin",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "2328346",
+      "name": "静音",
+      "font_class": "jingyin1",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "3091945",
+      "name": "全屏",
+      "font_class": "quanping",
+      "unicode": "e768",
+      "unicode_decimal": 59240
+    },
+    {
+      "icon_id": "4641127",
+      "name": "缩小",
+      "font_class": "suoxiao",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "6842461",
+      "name": "全屏",
+      "font_class": "quanping1",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "8746999",
+      "name": "播放",
+      "font_class": "bofang2",
+      "unicode": "e673",
+      "unicode_decimal": 58995
+    },
+    {
+      "icon_id": "11758469",
+      "name": "静音",
+      "font_class": "jingyin2",
+      "unicode": "e779",
+      "unicode_decimal": 59257
+    },
+    {
+      "icon_id": "11810528",
+      "name": "播放",
+      "font_class": "bofang3",
+      "unicode": "e68f",
+      "unicode_decimal": 59023
+    },
+    {
+      "icon_id": "14477196",
+      "name": "静音",
+      "font_class": "jingyin3",
+      "unicode": "e672",
+      "unicode_decimal": 58994
+    },
+    {
+      "icon_id": "16399014",
+      "name": "全屏",
+      "font_class": "quanping2",
+      "unicode": "e860",
+      "unicode_decimal": 59488
+    },
+    {
+      "icon_id": "18660193",
+      "name": "缩小",
+      "font_class": "hanhan-01-01",
+      "unicode": "e6a1",
+      "unicode_decimal": 59041
+    },
+    {
+      "icon_id": "19657959",
+      "name": "屏幕_全屏",
+      "font_class": "fullScreen",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "19685511",
+      "name": "声音",
+      "font_class": "volume",
+      "unicode": "eb5e",
+      "unicode_decimal": 60254
+    }
+  ]
+}
